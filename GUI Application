@@ -1,9 +1,8 @@
 '''
 Program: Glamping World Sales Order Processing Application
 Developer: Vertex Consulting
-Date: March 7, 2019
-Purpose: This application is a windows-based, sales order processing application for Glamping World
-        client to help with processing of phone orders. 
+Date: April 10, 2019
+Purpose: This application is a windows-based sales order processing application for Glamping World to help with processing of orders. 
 '''
 class ItemToPurchase:                     # this ItemToPurchase class is a template for creating instances of a Item
    def __init__(self):                    # this type of method is known as a constructor, setting up attributes of a new instance with specified values
